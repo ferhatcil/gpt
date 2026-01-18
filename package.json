@@ -1,0 +1,12 @@
+{
+  "name": "snyk-known-vulnerabilities-lab",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable repo for Snyk testing",
+  "private": true,
+  "dependencies": {
+    "jquery": "1.8.3",
+    "lodash": "4.17.11",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  }
+}
